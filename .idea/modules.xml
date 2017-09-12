@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SocketClient.iml" filepath="$PROJECT_DIR$/SocketClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_socketClient.iml" filepath="$PROJECT_DIR$/java_socketClient.iml" />
     </modules>
   </component>
 </project>
